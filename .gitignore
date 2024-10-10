@@ -1,0 +1,2 @@
+node_modules
+# Не додаю у .gitignore папку dist для наглядності роботи npm run build
